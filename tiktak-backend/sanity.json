@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "tiktak-backend"
-  },
   "api": {
     "projectId": "zup4vhnd",
     "dataset": "production"
+  },
+  "project": {
+    "name": "tiktak-backend"
   },
   "plugins": [
     "@sanity/base",
